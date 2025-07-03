@@ -1,5 +1,10 @@
 paracetomol 20.06 40
 ibuprofen 13.07 25
 aspirin 20.08 15
+<<<<<<< HEAD
 cetrin 20.05
 voltaren 20.12 70
+=======
+cetrin 20.05 15
+groprinosin 13.08 70
+>>>>>>> bdba833918e44eed30675e36619c55ad4d9f6843

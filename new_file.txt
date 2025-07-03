@@ -1,1 +1,2 @@
 paracetomol 20.06 40
+ibuprofen 13.07 25

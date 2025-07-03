@@ -1,4 +1,4 @@
 paracetomol 20.06 40
 ibuprofen 13.07 25
 aspirin 20.08 15
-cetrin 20.05 15
+cetrin 20.05
